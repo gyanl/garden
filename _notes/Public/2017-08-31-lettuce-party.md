@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: Lettuce Party
 subtitle: An open source handwritten display font
 tags: fonts

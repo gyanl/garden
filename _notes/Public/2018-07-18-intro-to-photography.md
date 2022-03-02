@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: "DE 629: Intro to Photography"
 subtitle: Notes from the Intro to Photography course at IDC School of Design, IIT Bombay.
 tags: idc

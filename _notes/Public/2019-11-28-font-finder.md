@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: "Font Finder"
 subtitle: Find fonts using combinations of adjective.
 tags: code idc

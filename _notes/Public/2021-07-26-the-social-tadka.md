@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: "The Social Tadka - Website"
 subtitle: Website design for a social media agency
 tags: website

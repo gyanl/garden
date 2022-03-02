@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: "Reflections on DRS"
 subtitle: A reflection essay on writing a paper about WhatsApp forwards in my final semester at IDC.
 thumbnail: https://gyanl.com/assets/thumbs/drs.png

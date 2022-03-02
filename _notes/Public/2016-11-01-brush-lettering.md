@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: Brush Lettering
 tags: misc
 ---

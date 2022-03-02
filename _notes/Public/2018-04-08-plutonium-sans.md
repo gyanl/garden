@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: Plutonium Sans
 subtitle: Designing my second typeface
 tags: fonts

@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: "Font Resources"
 subtitle: I worked on a tool to search and browse for fonts in my third semester at IDC. I'm documenting some interesting things I found here.
 tags: misc

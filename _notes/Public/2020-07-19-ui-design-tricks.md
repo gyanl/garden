@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: Neat UI Design tricks
 subtitle: Some neat tricks I wish I knew earlier
 thumbnail: https://gyanl.com/assets/thumbs/tricks.png 

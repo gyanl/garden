@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: "Stats for Research Methods"
 subtitle: Research for <del>dummies</del> designers
 tags: slides

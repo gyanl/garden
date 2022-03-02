@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: Untitled Devanagari Font
 subtitle: Attempts at a Devanagari typeface
 tags: fonts idc

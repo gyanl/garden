@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: Getting started with freelancing
 subtitle: Some advice for designers starting out
 thumbnail: https://gyanl.com/assets/thumbs/freelance.png 

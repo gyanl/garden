@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype : feed
 title: "Jobsplane"
 subtitle: Getting the right job for you.
 tags: uiux

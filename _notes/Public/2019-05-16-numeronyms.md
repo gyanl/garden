@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: Numeronyms
 subtitle: Number based abbreviations
 tags: misc

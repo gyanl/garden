@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: "Typoday 2019"
 subtitle: Sketch notes on some of the talks given at Typoday 2019.
 tags: sketchnotes

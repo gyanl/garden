@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: "Contributing to OpenStreetMap"
 tags: idc foss
 categories: [design]

@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: "Research Methods in HCI - Website"
 subtitle: Designing and coding a website for a course at IDC for industry professionals and academics.
 tags: website

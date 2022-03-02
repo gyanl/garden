@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype : feed
 title: "Color Generator"
 subtitle: Generate colors and gradients
 permalink: /ChromaGen

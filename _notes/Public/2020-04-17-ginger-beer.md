@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: Ginger Beer Recipe
 subtitle: This is my grandfather's recipe for ginger beer, finely tuned over the years.
 tags: food

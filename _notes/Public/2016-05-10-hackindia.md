@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: "HackIndia"
 subtitle: Branding for India's first large scale hackathon for and by students
 tags: branding

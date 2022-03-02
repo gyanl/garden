@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype: feed
 title: Talk by John Samuel Raja.
 subtitle: Part of guest lectures for DE-705 Interactive data visualization
 tags: idc dataviz

@@ -1,5 +1,5 @@
 ---
-layout: post
+notetype : feed
 title: New Delhi Dribbble Meetup
 tags: dribbble
 thumbnail: https://gyanl.com/assets/thumbs/dribbble.png

@@ -7,11 +7,11 @@ tags: internships
 thumbnail: https://gyanl.com/assets/thumbs/microsoft.png
 ---
 
+In the summer of 2019, I was part of the Microsoft Foundry program at Microsoft Hyderabad. The Foundry is an internship program designed to allow interns to work in cross-functional teams that mimic the structure of collaboration between design, development and product management that is followed by most teams at Microsoft. Each team at the Foundry consisted of 1 design intern and 3 or 4 software engineering interns. The teams worked together to solve a self-contained problem over the span of about 2 months.
+
 ![A group of design interns.](https://gyanl.com/assets/microsoft-groupcall.jpg)
 
 ###### 2019 Design Interns at the Hyderabad campus (with the interns from the Bangalore campus joining on a Teams video call).
-
-In the summer of 2019, I was part of the Microsoft Foundry program at Microsoft Hyderabad. The Foundry is an internship program designed to allow interns to work in cross-functional teams that mimic the structure of collaboration between design, development and product management that is followed by most teams at Microsoft. Each team at the Foundry consisted of 1 design intern and 3 or 4 software engineering interns. The teams worked together to solve a self-contained problem over the span of about 2 months.
 
 ### My work
 
