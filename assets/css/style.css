@@ -151,6 +151,16 @@ main {
 }
 */
 
+.note-title{
+  font-weight: 800;
+}
+
+.note-subtitle{
+  font-weight: 200;
+  font-style: italic;
+  opacity: .75;
+}
+
 /* Minor third with base font 14px */
 h1 {
     font-size: 3rem;

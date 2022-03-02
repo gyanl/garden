@@ -110,8 +110,8 @@
                                     </span>
                                 </a>
                             </div>
-                        <h1>{{page.title}}</h1>
-                        <h2>{{page.subtitle}}</h2>
+                        <h1 class="note-title">{{page.title}}</h1>
+                        <h2 class="note-subtitle">{{page.subtitle}}</h2>
                         {%- include Content.html -%}
                         {%- include Backlinks.html -%}
                         </div>
@@ -126,8 +126,8 @@
             {%- if page.content-type == "eg" -%}
                 <div class="column is-half">
                     <main>
-                        <h1>{{page.title}}</h1>
-                        <h2>{{page.subtitle}}</h2>
+                        <h1 class="note-title">{{page.title}}</h1>
+                        <h2 class="note-subtitle">{{page.subtitle}}</h2>
                         {%- include Content.html -%}
                         {%- include Footer.html -%}
 
@@ -139,8 +139,8 @@
 
             {%- if page.permalink == "/posts" -%}
                 <div class="column is-half">
-                    <h1>{{page.title}}</h1>
-                    <h2>{{page.subtitle}}</h2>
+                    <h1 class="note-title">{{page.title}}</h1>
+                    <h2 class="note-subtitle">{{page.subtitle}}</h2>
                     <div class="block">
                         {% for item in site.posts %}
                             <div class="block note-cards">
