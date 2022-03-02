@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "⭐️⭐️⭐️⭐️⭐️ 5 Stars.md",
+            "file": "5 Stars.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⭐️⭐️⭐️⭐️⭐️ 5 Stars.md",
+                "file": "5 Stars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +89,14 @@
   "active": "1ce0c2008bd4d63f",
   "lastOpenFiles": [
     "5 Stars.md",
-    "Library.md",
-    "Library 1.md",
-    "2022-02-10-stories.md",
-    "2022-03-17-turning-26.md",
-    "Chaos.md",
-    "Feedback.md",
-    "2021-11-01-chaos.md",
-    "2022-02-21-feedback.md",
-    "Great Portfolio Sites.md"
+    "2015-04-20-chromagen.md",
+    "Markdown Rendered.md",
+    "MarkDown Test Page.md",
+    "Hidden Note.md",
+    "Great Portfolio Sites.md",
+    "Hindsight in 2020.md",
+    "Internship at Microsoft.md",
+    "Numeronyms.md",
+    "Public Notes Website Concept.md"
   ]
 }

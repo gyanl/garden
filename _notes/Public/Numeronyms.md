@@ -1,4 +1,5 @@
 ---
+date: 16-05-2019
 notetype: feed
 title: Numeronyms
 subtitle: Number based abbreviations

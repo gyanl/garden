@@ -1,4 +1,5 @@
 ---
+date: 18-07-2020
 notetype: feed
 title: CEED Exam & IDC Interview
 subtitle: Some tips and what to expect when applying for the M.Des. programs at IDC School of Design, IIT Bombay.
@@ -45,7 +46,7 @@ As the M.Des. program is a master's level course, you will be expected to not on
 
 You can find a list of all faculty in IDC and links to their personal pages [here](http://www.idc.iitb.ac.in/people/faculty). The IDC website might give you outdated or partial information about their work, so you can also search for their work on [Google Scholar](https://scholar.google.com/) or other sources.
 
-The current faculty in the interaction design department are:
+The current faculty in the interaction design department (as of 2020) are:
 
 -   Anirudha Joshi
 -   Girish Dalvi
