@@ -7,7 +7,7 @@ notetype : feed
 date : 13-07-2020
 ---
 
-I started my first job as a UX Designer at Microsoft soon after finishing my Master's degree in Interaction Design at IDC School of Design, IIT Bombay. I joined the Canvas Voice team in Noida, which worked on experiences like Dictation, Transcription, Read Aloud and Voice Search across Microsoft apps like Word, Outlook and OneNote.
+I did my [[Internship at Microsoft]] at the Hyderbad campus while I was doing my Master's degree in Interaction Design at IDC School of Design, IIT Bombay. I then returned to Microsoft after finishing my degree, and started my first job as a UX Designer. I joined the Canvas Voice team in Noida, which worked on experiences like Dictation, Transcription, Read Aloud and Voice Search across Microsoft apps like Word, Outlook and OneNote.
 
 ![Voice @ Microsoft](https://gyanl.com/assets/ms-voice.png)
 ###### Voice @ Microsoft
