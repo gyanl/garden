@@ -1,5 +1,4 @@
 ---
-layout : post
 title : "UX Design at Microsoft"
 subtitle : Starting my first full time job in the pandemic and working on voice experiences.
 tags : work
