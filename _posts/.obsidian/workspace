@@ -7,8 +7,11 @@
         "id": "672bb9623325441f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2020-03-01-features.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2020-03-01-features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,8 @@
   },
   "active": "672bb9623325441f",
   "lastOpenFiles": [
+    "2020-03-01-features.md",
+    "2020-03-01-how-to.md",
     "2015-01-01-test-page.md"
   ]
 }

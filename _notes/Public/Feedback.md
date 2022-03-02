@@ -1,7 +1,8 @@
 ---
 notetype: feed
-title: Giving feedback/Getting feedback
-subtitle: Getting better at getting better
+date : 21-02-2022
+title: Feedback
+subtitle: Giving feedback and getting feedback
 tags: misc
 ---
 

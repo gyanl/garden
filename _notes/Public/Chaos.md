@@ -1,7 +1,8 @@
 ---
+date: 01-11-2021
 notetype: feed
-title: First and second order chaos
-subtitle: Degrees of chaos in Sapiens
+title: Chaos
+subtitle: First and second order chaos in Sapiens
 tags: misc
 thumbnail: https://gyanl.com/assets/thumbs/chaos.png
 ---
