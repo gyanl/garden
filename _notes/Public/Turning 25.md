@@ -1,5 +1,6 @@
 ---
 notetype: feed
+date: 17-03-2021
 title: Turning 25
 subtitle: Thoughts I have thought every year on my birthday
 permalink: "25"
@@ -9,7 +10,7 @@ tags: birthdays
 ## Turning 25 (2021)
 This has been a weird year. I find myself feeling a little bit melancholic, as I often do on birthdays. This is a feeling I am used to at this point, and I know that the way to deal with it is to plan out a nice day for myself in advance. I think I will go to Lodhi Garden for a walk and eat cake.
 
-I already wrote a reflections piece [earlier in the year](/hindsight-in-2020) but for the sake of consistency, here's another list.
+I recently wrote a reflections piece called [[Hindsight in 2020]] at the beginning of the year, but for the sake of consistency, here's another list.
 
 #### Highlights of the year
 - Graduated from IDC (virtually!)

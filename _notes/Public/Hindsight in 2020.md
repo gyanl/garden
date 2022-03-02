@@ -1,5 +1,6 @@
 ---
 notetype: feed
+date: 01-01-2021
 title: Hindsight in 2020
 subtitle: Looking back at the year everything went wrong.
 thumbnail: https://gyanl.com/assets/thumbs/2020.png
