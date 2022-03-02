@@ -1,10 +1,10 @@
 ---
-title: "MarkDown Test Page"
-notetype: feed
-date: 01-01-2015
-layout: post
-subtitle: Test page for my custom markdown theme
-tags: misc
+title : "MarkDown Test Page"
+notetype : feed
+date : 01-01-2015
+layout : post
+subtitle : Test page for my custom markdown theme
+tags : misc
 ---
 
 Some regular text with **bold** and *italics* a footnote. [^1] My favorite search engine is [Duck Duck Go](https://duckduckgo.com). Quick link <https://www.markdownguide.org> and quick email ID <fake@example.com>
