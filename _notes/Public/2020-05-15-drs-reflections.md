@@ -58,12 +58,15 @@ I don’t know if I will write more research papers, but I think the learnings f
 
 * * *
 
+
+#### Feedback on this essay
+
 -   Finding what to work on. Supportive faculty, peers, etc. won't be there. Stagnation without external push to do new things.
 
--   Strong sense of I. I can/can't do this. Hold yourself back because of this.
+-   You have a strong sense of I. You believe I can/can't do this, which holds you back.
 
 -   Wherever you go, what do you want to do there? What kind of work do you want to do? Don't just do what other people tell you to do. Make your own plan.
 
--   User researcher because calmer, quieter, sensitive.
+-   Calm, quiet, sensitive - good qualities for a user researcher.
 
 -   Organisation, planning. Unless you make time for thinking, how will it happen? Despite the everyday-ness of things.

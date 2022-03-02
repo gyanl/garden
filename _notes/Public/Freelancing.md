@@ -14,7 +14,7 @@ Creating a portfolio and getting ready to accept projects
 
 #### Show your work
 
-Create a place to show your work. This could be a portfolio on a site like Behance, Vimeo, Medium, or your own website. Putting your work out is more important than having it in any particular format. Some examples can be found at [[Portfolio Sites]].
+Create a place to show your work. This could be a portfolio on a site like Behance, Vimeo, Medium, or your own website. Putting your work out is more important than having it in any particular format. I maintain a list of [[Portfolio Sites]] that I like.
 
 If you are actively looking for jobs, also keep an updated copy of your resume on your website. Here are some [tips for making a great resume](https://gumroad.com/l/resumeguide).
 
