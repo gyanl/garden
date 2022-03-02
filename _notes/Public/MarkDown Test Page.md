@@ -2,7 +2,6 @@
 title : "MarkDown Test Page"
 notetype : feed
 date : 01-01-2015
-layout : post
 subtitle : Test page for my custom markdown theme
 tags : misc
 ---
