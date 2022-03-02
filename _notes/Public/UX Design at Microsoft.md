@@ -3,7 +3,7 @@ title : "UX Design at Microsoft"
 subtitle : Starting my first full time job in the pandemic and working on voice experiences.
 tags : work
 thumbnail : https://gyanl.com/assets/thumbs/microsoft.png
-notetype : unfeed
+notetype : feed
 date : 13-07-2020
 ---
 

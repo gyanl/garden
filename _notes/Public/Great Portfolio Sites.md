@@ -1,5 +1,6 @@
 ---
-layout: post
+notetype : feed
+date : 23-04-2021
 title: Great Portfolio Sites
 subtitle: A list of websites that I think do a great job of showing design work.
 permalink: portfolios
