@@ -8,7 +8,7 @@ thumbnail: https://gyanl.com/assets/thumbs/drm.png
 ---
 
 ### [Link to PDF slides](https://www.dropbox.com/s/05228sulizdxwqw/Stats%20for%20DRM%20v2.pdf?dl=0)
-Fair warning: These might not make sense outside of the context of the course since some of these slides refer to material distributed during the course.
+Fair warning:  Some of these slides refer to material distributed during the course, and may not make sense without them.
 
 ![Class photo](https://gyanl.com/assets/talk-curves.jpeg)
 

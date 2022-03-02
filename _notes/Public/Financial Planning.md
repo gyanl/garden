@@ -1,5 +1,6 @@
 ---
 notetype: feed
+date: 11-12-2020
 title: Financial Planning
 subtitle: Some personal notes on managing your money
 thumbnail: https://gyanl.com/assets/thumbs/money.png
