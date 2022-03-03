@@ -1,5 +1,6 @@
 ---
 notetype: feed
+date: 01-11-2016
 title: Brush Lettering
 tags: misc
 ---
