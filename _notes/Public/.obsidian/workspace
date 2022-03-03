@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Portfolio Sites.md",
+            "file": "Markdown Rendered.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfolio Sites.md",
+                "file": "Markdown Rendered.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1ce0c2008bd4d63f",
   "lastOpenFiles": [
+    "Markdown Rendered.md",
     "Portfolio Sites.md",
     "Webdev Resources.md",
     "Untitled.md",
@@ -96,7 +97,6 @@
     "Chaos.md",
     "Digital Garden.md",
     "Fake News.md",
-    "Feedback.md",
-    "Freelancing.md"
+    "Feedback.md"
   ]
 }
