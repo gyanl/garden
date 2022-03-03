@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brush Lettering.md",
+            "file": "Intro to Filmmaking.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brush Lettering.md",
+                "file": "Intro to Filmmaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1ce0c2008bd4d63f",
   "lastOpenFiles": [
+    "Untitled.md",
     "Brush Lettering.md",
     "CEED Exam & IDC Interview.md",
     "Chaos.md",
@@ -96,7 +97,6 @@
     "Feedback.md",
     "Freelancing.md",
     "Ginger Beer.md",
-    "Hindsight in 2020.md",
-    "Internship at Microsoft.md"
+    "Hindsight in 2020.md"
   ]
 }
