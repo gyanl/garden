@@ -6,13 +6,13 @@ subtitle: Giving feedback and getting feedback
 tags: misc
 ---
 
-### Giving Feedback
+### Giving feedback
 
 A thumb rule I use for feedback is—what can I say that would help this person get one level higher with their work? This helps scale feedback to where someone is currently at in terms of skills, thought process and ability to execute. 
 
 Giving someone pointers for things that are too far beyond their current abilities is not very helpful, and may result in confusion (at best) or hostility (at worst).
 
-### Receiving Feedback
+### Receiving feedback
 
 When you work hard and spend time on making something, you tend to fall in love with it. If you get emotionally attached to your work, it becomes really hard to hear "this sucks" and it becomes very easy to interpret it as "you suck".
 

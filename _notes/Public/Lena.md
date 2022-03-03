@@ -4,6 +4,7 @@ notetype: feed
 title: Lena
 subtitle: A short story by qntm
 tags: misc
+date modified: 02-03-2022
 ---
 
 In the future, MMAcevedo is the first human brain to be scanned in a format where it can be "run" as a digital program.

@@ -1,9 +1,11 @@
 ---
+date: 31-01-2016
 notetype : feed
-title: "Jobsplane"
+title: Jobsplane
 subtitle: Getting the right job for you.
 tags: uiux
 thumbnail: https://gyanl.com/assets/thumbs/jobsplane.png
+date modified: 03-03-2022
 ---
 
 ### About Jobsplane

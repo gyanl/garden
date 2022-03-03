@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lena.md",
+            "file": "Jobsplane.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lena.md",
+                "file": "Jobsplane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,6 +76,29 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3445b2099ca41fdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Jobsplane.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f7c3b1bfb6e55c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -88,15 +111,15 @@
   },
   "active": "1ce0c2008bd4d63f",
   "lastOpenFiles": [
+    "2016-01-31-jobsplane.md",
+    "2015-04-20-chromagen.md",
+    "Hindsight in 2020.md",
+    "Internship at Microsoft.md",
     "Lena.md",
+    "Library.md",
     "Markdown Rendered.md",
-    "Portfolio Sites.md",
-    "Webdev Resources.md",
-    "Untitled.md",
-    "Brush Lettering.md",
-    "CEED Exam & IDC Interview.md",
-    "Chaos.md",
-    "Digital Garden.md",
-    "Fake News.md"
+    "New.md",
+    "Numeronyms.md",
+    "Portfolio Sites.md"
   ]
 }

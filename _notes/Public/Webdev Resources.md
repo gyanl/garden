@@ -1,9 +1,18 @@
+---
+notetype: feed
+date: 03-03-2022
+date modified: 03-03-2022
+title: Webdev Resources
+tags: code
+---
 ## JavaScript
 
 #### [Splitting.js](https://splitting.js.org/)
+
 JS library to iterate through every instance of class (or to break a single div into multiple divs) to be able to animate them individually. Useful for animating text char by char or delaying each item in a list.
 
 #### [Alpine.js](https://alpinejs.dev/)
+
 Simple interactivity directly in HTML
 
 ## CSS
@@ -22,6 +31,7 @@ Simple interactivity directly in HTML
 #### HTML DOM
 
 Manage HTML DOM with vanilla JS
+
 [Manage HTML DOM with vanilla JavaScript - HTML DOM](https://htmldom.dev/)
 
 [The Vanilla JS Toolkit](https://vanillajstoolkit.com/)
