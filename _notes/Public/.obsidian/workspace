@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Markdown Rendered.md",
+            "file": "Lena.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Rendered.md",
+                "file": "Lena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1ce0c2008bd4d63f",
   "lastOpenFiles": [
+    "Lena.md",
     "Markdown Rendered.md",
     "Portfolio Sites.md",
     "Webdev Resources.md",
@@ -96,7 +97,6 @@
     "CEED Exam & IDC Interview.md",
     "Chaos.md",
     "Digital Garden.md",
-    "Fake News.md",
-    "Feedback.md"
+    "Fake News.md"
   ]
 }
