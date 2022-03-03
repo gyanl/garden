@@ -1,6 +1,7 @@
 ---
 notetype: feed
-title: Ginger Beer Recipe
+date: 17-04-2020
+title: Ginger Beer
 subtitle: This is my grandfather's recipe for ginger beer, finely tuned over the years.
 tags: food
 thumbnail: https://gyanl.com/assets/thumbs/ginger.png
