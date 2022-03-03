@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intro to Filmmaking.md",
+            "file": "Portfolio Sites.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to Filmmaking.md",
+                "file": "Portfolio Sites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "1ce0c2008bd4d63f",
   "lastOpenFiles": [
+    "Portfolio Sites.md",
+    "Webdev Resources.md",
     "Untitled.md",
     "Brush Lettering.md",
     "CEED Exam & IDC Interview.md",
@@ -95,8 +97,6 @@
     "Digital Garden.md",
     "Fake News.md",
     "Feedback.md",
-    "Freelancing.md",
-    "Ginger Beer.md",
-    "Hindsight in 2020.md"
+    "Freelancing.md"
   ]
 }
