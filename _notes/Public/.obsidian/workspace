@@ -7,8 +7,16 @@
         "id": "1ce0c2008bd4d63f",
         "type": "leaf",
         "state": {
+<<<<<<< Updated upstream
           "type": "empty",
           "state": {}
+=======
+          "type": "markdown",
+          "state": {
+            "file": "Design & Social Entrepreneurship.md",
+            "mode": "source"
+          }
+>>>>>>> Stashed changes
         }
       }
     ],
@@ -65,6 +73,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "Design & Social Entrepreneurship.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

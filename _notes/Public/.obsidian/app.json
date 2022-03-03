@@ -14,6 +14,6 @@
   },
   "alwaysUpdateLinks": true,
   "promptDelete": true,
-  "legacyEditor": false,
+  "legacyEditor": true,
   "livePreview": true
 }
