@@ -4,6 +4,7 @@ notetype : feed
 date : 01-01-2015
 subtitle : Test page for my custom markdown theme
 tags : misc
+date modified: 03-03-2022
 ---
 
 Some regular text with **bold** and *italics* a footnote. [^1] My favorite search engine is [Duck Duck Go](https://duckduckgo.com). Quick link <https://www.markdownguide.org> and quick email ID <fake@example.com>
@@ -49,4 +50,6 @@ Lorem ipsum dolor set amet.
 ```
 
 ### References
+
+
 [^1]: Ellis-Peterson, H, (17 December 2019). "India protests: students condemn 'barbaric' police" [The Guardian](https://www.theguardian.com/world/2019/dec/17/india-protests-students-condemn-barbaric-police)
