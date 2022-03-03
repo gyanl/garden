@@ -5,6 +5,7 @@ notetype: feed
 subtitle: Some thoughts on designing for AI at my internship at Microsoft Hyderabad, where I worked on integrating intelligent assistance in an existing Microsoft app.
 tags: internships
 thumbnail: https://gyanl.com/assets/thumbs/microsoft.png
+date modified: 02-03-2022
 ---
 
 In the summer of 2019, I was part of the Microsoft Foundry program at Microsoft Hyderabad. The Foundry is an internship program designed to allow interns to work in cross-functional teams that mimic the structure of collaboration between design, development and product management that is followed by most teams at Microsoft. Each team at the Foundry consisted of 1 design intern and 3 or 4 software engineering interns. The teams worked together to solve a self-contained problem over the span of about 2 months.

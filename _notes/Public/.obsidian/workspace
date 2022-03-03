@@ -13,7 +13,11 @@
 =======
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Design & Social Entrepreneurship.md",
+=======
+            "file": "Jobsplane.md",
+>>>>>>> e21b4b8201e96859779e592591f4f4cc68aacfe5
             "mode": "source"
           }
 >>>>>>> Stashed changes
@@ -73,10 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
                 "file": "Design & Social Entrepreneurship.md",
 >>>>>>> Stashed changes
+=======
+                "file": "Jobsplane.md",
+>>>>>>> e21b4b8201e96859779e592591f4f4cc68aacfe5
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +92,29 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3445b2099ca41fdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Jobsplane.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f7c3b1bfb6e55c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -96,6 +127,7 @@
   },
   "active": "1ce0c2008bd4d63f",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Design & Social Entrepreneurship.md",
     "IDC.md",
     "Internship at Microsoft.md",
@@ -106,5 +138,17 @@
     "Ginger Beer Recipe.md",
     "2019-11-28-font-finder.md",
     "2021-07-26-the-social-tadka.md"
+=======
+    "2016-01-31-jobsplane.md",
+    "2015-04-20-chromagen.md",
+    "Hindsight in 2020.md",
+    "Internship at Microsoft.md",
+    "Lena.md",
+    "Library.md",
+    "Markdown Rendered.md",
+    "New.md",
+    "Numeronyms.md",
+    "Portfolio Sites.md"
+>>>>>>> e21b4b8201e96859779e592591f4f4cc68aacfe5
   ]
 }

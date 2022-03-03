@@ -1,12 +1,14 @@
 ---
 notetype: feed
-title: "Font Finder"
+date: 28-11-2019
+title: Font Finder
 subtitle: Find fonts using combinations of adjective.
 tags: code idc
 thumbnail: https://gyanl.com/assets/thumbs/fontfinder.png
+date modified: 03-03-2022
 ---
 
-###### **“Well chosen words deserve well-chosen letters.”**<br>- Robert Bringhurst, The Elements of Typographic Style
+###### **“well chosen words deserve well-chosen letters.”**<br>- robert bringhurst, the elements of typographic style
 
 This tool allows you to browse fonts to using combinations of adjectives instead of the classification terminology used by graphic designers.
 
