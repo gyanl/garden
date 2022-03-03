@@ -10,7 +10,7 @@ I've been fascinated by the idea of Digital Gardens for some time now. I really 
 
 My goals with this website are two-fold.
 
-1. I want a portfolio to document my work as a designer, which means my home page shows only the projects that show off the skills most relevant to my career as a UX Designer.
+1. I want a portfolio to document my work as a designer, which means my home page shows only the projects that show the skills most relevant to my career as a UX Designer.
 2. I want a place to write personal reflections, collect useful resources, document personal projects, make notes about things I learned. These can be a little esoteric—I have a page for my grandfather's [[Ginger Beer]] recipe, and a page about [[Numeronyms]]. 
 
 #### Website Setup
