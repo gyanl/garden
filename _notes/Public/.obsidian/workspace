@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MarkDown Test Page.md",
+            "file": "Webdev Resources.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarkDown Test Page.md",
+                "file": "Webdev Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,6 +76,29 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "241eccb5c49435d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Webdev Resources.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e7a9e6772aece66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -88,6 +111,7 @@
   },
   "active": "1ce0c2008bd4d63f",
   "lastOpenFiles": [
+    "Webdev Resources.md",
     "MarkDown Test Page.md",
     "5 Stars.md",
     "2017-03-17-turning-21.md",
@@ -96,7 +120,6 @@
     "2019-03-17-turning-23.md",
     "Design & Social Entrepreneurship.md",
     "IDC.md",
-    "Internship at Microsoft.md",
-    "Intro to Photography.md"
+    "Internship at Microsoft.md"
   ]
 }

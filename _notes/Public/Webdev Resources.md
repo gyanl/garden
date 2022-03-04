@@ -1,7 +1,7 @@
 ---
 notetype: feed
 date: 03-03-2022
-date modified: 03-03-2022
+date modified: 04-03-2022
 title: Webdev Resources
 tags: code
 ---
@@ -15,29 +15,32 @@ JS library to iterate through every instance of class (or to break a single div 
 
 Simple interactivity directly in HTML
 
+#### [Manage HTML DOM with vanilla JavaScript - HTML DOM](https://htmldom.dev/)
+
+Do you really need a framework library?
+
+#### [Vanilla JS Toolkit](https://vanillajstoolkit.com/)
+
+A collection of tools and snippets for working with JavaScript.
+
 ## CSS
 
-[Native Elements (native-elements.dev)](https://native-elements.dev/#/)
+#### [Native Elements](https://native-elements.dev/#/)
 
-#### Image Carousel CSS
-      
-[https://twitter.com/prathkum/status/1491622547380604929?s=12](https://twitter.com/prathkum/status/1491622547380604929?s=12)
-      
-[https://codepen.io/prathkum/pen/bGBOzXj](https://codepen.io/prathkum/pen/bGBOzXj)
+CSS Superpowers for HMTL elements. Visual Great for quickly making a basic (usually single page) site.
 
-#### Full bleed images in a blog layout
-[CSS Grid full-bleed layout tutorial (joshwcomeau.com)](https://www.joshwcomeau.com/css/full-bleed/)
+#### [Image Carousel in CSS](https://codepen.io/prathkum/pen/bGBOzXj)    
 
-#### HTML DOM
+I found this on [Twitter via @prathkum](https://twitter.com/prathkum/status/1491622547380604929?s=12)
 
-Manage HTML DOM with vanilla JS
+#### [Full bleed images in a blog layout](https://www.joshwcomeau.com/css/full-bleed/)
 
-[Manage HTML DOM with vanilla JavaScript - HTML DOM](https://htmldom.dev/)
+CSS Grid full-bleed layout tutorial via Josh W Comeau
 
-[The Vanilla JS Toolkit](https://vanillajstoolkit.com/)
+#### [CSS Shadow generator](https://www.joshwcomeau.com/shadow-palette/)
 
-#### Shadow generator
-[CSS Shadow Palette Generator (joshwcomeau.com)](https://www.joshwcomeau.com/shadow-palette/)
+CSS Shadow Palette Generator via Josh W Comeau
 
-#### Highlight images without alt text
-[Addy Osmani on Twitter: "Tip: highlight images missing alt text with img:not([alt]) https://t.co/zgjdE5iTU6" / Twitter](https://twitter.com/addyosmani/status/1223872295619330048)
+#### [Highlight images without alt text](https://twitter.com/addyosmani/status/1223872295619330048)
+
+CSS to Highlight any image on your site that doesn’t have alt-text. Via [@addyosmani](https://twitter.com/addyosmani) on Twitter.
