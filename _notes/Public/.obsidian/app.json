@@ -13,7 +13,7 @@
     "file-recovery": true
   },
   "alwaysUpdateLinks": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "legacyEditor": true,
   "livePreview": true
 }

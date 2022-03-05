@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Webdev Resources.md",
+            "file": "Intro to Photography.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "portfolio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webdev Resources.md",
+                "file": "Intro to Photography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webdev Resources.md",
+                "file": "Color Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +111,15 @@
   },
   "active": "1ce0c2008bd4d63f",
   "lastOpenFiles": [
-    "Webdev Resources.md",
-    "MarkDown Test Page.md",
-    "5 Stars.md",
-    "2017-03-17-turning-21.md",
-    "2017-09-02-zomato.md",
-    "Web Typography.md",
-    "2019-03-17-turning-23.md",
-    "Design & Social Entrepreneurship.md",
-    "IDC.md",
-    "Internship at Microsoft.md"
+    "Intro to Photography.md",
+    "Ginger Beer.md",
+    "Ginger Beer Recipe.md",
+    "Color Generator.md",
+    "2022-03-17-turning-26.md",
+    "Portfolio Sites.md",
+    "Digital Garden.md",
+    "2017-08-31-lettuce-party.md",
+    "Untitled.md",
+    "Freelancing.md"
   ]
 }

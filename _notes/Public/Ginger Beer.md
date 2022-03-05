@@ -1,16 +1,11 @@
 ---
-aliases: 
 notetype: feed
 date: 17-04-2020
-<<<<<<< HEAD:_notes/Public/Ginger Beer Recipe.md
-title: Ginger Beer Recipe
-=======
 title: Ginger Beer
->>>>>>> e21b4b8201e96859779e592591f4f4cc68aacfe5:_notes/Public/Ginger Beer.md
 subtitle: This is my grandfather's recipe for ginger beer, finely tuned over the years.
 tags: food
 thumbnail: https://gyanl.com/assets/thumbs/ginger.png
-date modified: 03-03-2022
+date modified: 05-03-2022
 ---
 
 ### Ingredients
